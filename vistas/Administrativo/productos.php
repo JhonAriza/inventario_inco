@@ -4,7 +4,7 @@ include("header.php");
 ?>
 <a href="producto.php">volver </a>
 <center>
-               <H1>productos</H1>
+               <H1>productos en inventario new </H1>
                <table border="1">
                         <tr>
                             <td>codigoProducto</td>
@@ -12,10 +12,10 @@ include("header.php");
                             <td>nombreProducto </td>
                             <td>cantidadProducto</td>
                             <td>ivaProducto</td>
-                            <td>	descripcionProducto</td>
+                            <td>descripcionProducto</td>
                             <td>ubicacionProducto</td>
                             <td>fechaEntradaProducto	</td>
-                            <td>	codigoProveedor</td>
+                            <td>codigoProveedor</td>
                             <td>codigoEmpleado</td>
                         </tr>
                         <?php
