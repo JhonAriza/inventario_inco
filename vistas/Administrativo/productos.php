@@ -5,6 +5,7 @@ include("header.php");
 <a href="producto.php">volver </a>
 <center>
                <H1>productos en inventario new </H1>
+               <p>new</p>
                <table border="1">
                         <tr>
                             <td>codigoProducto</td>
